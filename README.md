@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Frank 👋
 
-<!--
-**C4PILLO/C4PILLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador .NET en Lima, Perú. Llevo 3 años construyendo y manteniendo sistemas web empresariales en producción.
 
-Here are some ideas to get you started:
+## En qué trabajo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Trabajo actual:** sistemas de gestión para el sector educativo con C#, .NET Framework y SQL Server.
+- **Nut:** asistente de cocina con IA. PWA en Blazor WebAssembly (.NET 10) con backend en Cloudflare Workers. En producción.
+- **Cuqli:** plataforma SaaS para estudios contables. En desarrollo.
+
+## Stack
+
+**Backend:** C# · .NET · ASP.NET · SQL Server · T-SQL
+**Frontend:** Blazor · JavaScript · jQuery · Angular · TypeScript
+**Otros:** Cloudflare Workers · Git
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/frank-capillo)
