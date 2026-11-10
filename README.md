@@ -10,9 +10,9 @@ Desarrollador .NET en Lima, Perú. Llevo 3 años construyendo y manteniendo sist
 
 ## Stack
 
-**Backend:** C# · .NET · ASP.NET · SQL Server · T-SQL
-**Frontend:** Blazor · JavaScript · jQuery · Angular · TypeScript
-**Otros:** Cloudflare Workers · Git
+- **Backend:** C# · .NET · ASP.NET · SQL Server · T-SQL
+- **Frontend:** Blazor · JavaScript · jQuery · Angular · TypeScript
+- **Otros:** Cloudflare Workers · Git
 
 ## Contacto
 
